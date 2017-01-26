@@ -1,0 +1,13 @@
+.add-todo-form,
+.todo-list {
+    width: 550px;
+    margin: 0 auto;
+}
+
+.todo-list {
+    margin-bottom: 60px;
+}
+
+.todo-list > div {
+    margin-bottom: 5px;
+}
